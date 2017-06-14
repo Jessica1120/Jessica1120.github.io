@@ -2,6 +2,7 @@ body {
     background-image: url("http://farm8.staticflickr.com/7453/13262551805_0ebd32568f_c.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center center;
 }
 header {
      background-color: #d6d6dc;
