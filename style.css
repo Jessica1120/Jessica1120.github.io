@@ -5,4 +5,9 @@ header {
     background-color: #d6d6dc;
     color: black;
     border-style: solid;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: solid;
+    border-left-style: hidden;
+    border-color: #f01c1c;
 }
