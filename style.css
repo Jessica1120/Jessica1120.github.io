@@ -13,4 +13,6 @@ header {
 }
 div {
   margin: 5px;
+  padding: 10px;
+  border-style: none;
 }
