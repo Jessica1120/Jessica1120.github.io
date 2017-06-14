@@ -11,3 +11,6 @@ header {
     border-color: #d6d6dc;
     border-width: 10px;
 }
+div {
+  margin: 5px;
+}
