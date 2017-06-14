@@ -7,7 +7,7 @@ header {
     text-align: center;
     margin: 0px;
     padding: 10px;
-    border-style: outset;
+    border-style: double;
     border-color: #b30003;
     border-width: 10px;
 }
