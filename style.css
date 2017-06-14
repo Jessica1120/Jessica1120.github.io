@@ -2,9 +2,10 @@ body {
   background-color: #d6d6dc;
 }
 header {
-    background-color: #d6d6dc;
+    background-color: #9f9fad;
     color: black;
-    border-style: solid;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
     border-top-style: hidden;
     border-right-style: hidden;
     border-bottom-style: solid;
