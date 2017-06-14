@@ -10,6 +10,7 @@ html {
 }
 header {
     color: black;
+    font-family: 'Alegreya SC', serif;
     text-align: center;
     margin: 100px 150px 5px 150px;
     padding: 10px;
@@ -18,8 +19,7 @@ header {
     border-width: 10px;
 }
 #name {
-       font-size: 18px;
-     font-family: 'Alegreya SC', serif;
+       font-size: 20px;
 }
 div {
   margin: 25px 300px 200px 300px;
