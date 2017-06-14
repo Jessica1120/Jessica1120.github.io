@@ -16,7 +16,9 @@ header {
     border-style: double;
     border-color: #b30003;
     border-width: 10px;
-   
+}
+#name {
+       font-size: 18px;
 }
 div {
   margin: 25px 300px 200px 300px;
