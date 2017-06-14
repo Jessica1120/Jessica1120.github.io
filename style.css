@@ -5,7 +5,8 @@ header {
     background-color: #9f9fad;
     color: black;
     text-align: center;
-    margin: 10px 0px 10px 0px;
+    margin: 0px;
+    padding: 5px;
     border-top-style: hidden;
     border-right-style: hidden;
     border-bottom-style: solid;
