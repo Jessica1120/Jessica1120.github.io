@@ -7,9 +7,7 @@ header {
     text-align: center;
     margin: 0px;
     padding: 10px;
-    border-top-style: hidden;
-    border-right-style: hidden;
-    border-bottom-style: solid;
-    border-left-style: hidden;
-    border-color: #f01c1c;
+    border-style: outset;
+    border-color: black;
+    border-width: 10px;
 }
