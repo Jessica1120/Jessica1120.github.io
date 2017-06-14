@@ -2,11 +2,7 @@ body {
   background-color: #d6d6dc;
 }
 header {
-    margin: 0px;
-    border-style: 5px solid red;
-      padding: 0;
-    color: white;
-    background-color: black;
-    clear: left;
-    text-align: center;
+    background-color: #d6d6dc;
+    color: black;
+    border-style: solid;
 }
