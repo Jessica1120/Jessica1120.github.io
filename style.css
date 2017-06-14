@@ -11,6 +11,7 @@ html {
 header {
     color: black;
     text-align: center;
+    position: static;
     margin: 5px 150px 5px 150px;
     padding: 10px;
     border-style: double;
