@@ -10,7 +10,7 @@ html {
 }
 header {
     color: black;
-    font-family: American Typewriter’, ‘Courier New’, Courier, Monaco, mono;
+    font-family: 'American Typewriter’, ‘Courier New’, Courier, Monaco, mono;
     text-align: center;
     margin: 100px 150px 5px 150px;
     padding: 10px;
