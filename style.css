@@ -22,12 +22,11 @@ header {
        font-size: 20px;
 }
 div {
-   
+  font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif;
   margin: 25px 300px 200px 300px;
   padding: 10px;
   border-style: none;
 }
 h4 {
     font-size: 18px;
-    font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif;
-}
+    }
